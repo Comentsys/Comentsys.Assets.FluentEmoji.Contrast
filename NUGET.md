@@ -16,6 +16,10 @@ Install-Package Comentsys.Assets.FluentEmoji.Contrast
 
 ## Change Log
 
+### Version 2.0.0
+
+- Update for Comentsys.Assets.FluentEmoji and New / Fixed Emoji
+
 ### Version 1.1.0
 
 - Update for Comentsys.Assets.FluentEmoji and Emoji Fixes

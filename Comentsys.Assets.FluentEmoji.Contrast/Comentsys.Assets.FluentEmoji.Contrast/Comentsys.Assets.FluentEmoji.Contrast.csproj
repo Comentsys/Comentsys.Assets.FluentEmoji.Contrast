@@ -4,15 +4,16 @@
 		<TargetFramework>netstandard2.0</TargetFramework>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
-		<LangVersion>10.0</LangVersion>
+		<LangVersion>13.0</LangVersion>
 		<Title>Asset Resource for High Contrast Fluent Emoji</Title>
 		<Authors>Comentsys, Microsoft</Authors>
 		<Company>Comentsys</Company>
-		<Version>1.1.0</Version>
+		<Version>2.0.0</Version>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 		<PackageReleaseNotes>
 			1.0.0 - Initial Release
 			1.1.0 - Update for Comentsys.Assets.FluentEmoji and Emoji Fixes
+			2.0.0 - Update for Comentsys.Assets.FluentEmoji and New / Fixed Emoji
 		</PackageReleaseNotes>
 		<PackageProjectUrl>https://github.com/Comentsys/Comentsys.Assets.FluentEmoji.Contrast</PackageProjectUrl>
 		<Description>Asset Resource for High Contrast Fluent Emoji</Description>
@@ -39,7 +40,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <PackageReference Include="Comentsys.Assets.FluentEmoji" Version="1.*" />
+	  <PackageReference Include="Comentsys.Assets.FluentEmoji" Version="2.*" />
 	</ItemGroup>
 
 </Project>
