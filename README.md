@@ -23,7 +23,7 @@ You can also supply a **Colour** for **Contrast** to customise the **Emoji** by 
 
 ### Examples
 
-![Contrast Fluent Emoji](Assets/contrastfluentemoji.png)
+![Contrast Fluent Emoji](https://raw.githubusercontent.com/Comentsys/Comentsys.Assets.FluentEmoji.Contrast/refs/heads/main/Assets/contrastfluentemoji.png)
 
 > `ContrastFluentEmoji` supports **Colour** replacement here `#3498DB` is used instead of the default of `#212121`.
 
